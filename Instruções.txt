@@ -1,0 +1,14 @@
+Bem-Vindo ao Microondas do Gabriel Hebreus
+
+Escolha uma das nossas opções pré-dininidas e bom apetite
+
+1ª instruções
+microondas("sua opção", tempo)
+
+2ª
+Exemplo prático:
+microondas("pipoca", 10)
+
+"Prato pronto, bom apetite!"
+
+agora é só comer e ser feliz!!
